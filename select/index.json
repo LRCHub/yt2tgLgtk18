@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Hey Lady",
+  "base_artist": "WANIMA",
+  "createdAt": "2026-02-21T12:25:12.914386Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey Lady",
+      "artist": "Cam'ron feat. Freekey Zekey",
+      "has_synced": false,
+      "path": "select/01_Hey_Lady_Cam'ron_feat._Freekey_Zekey.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey Lady (feat. Freekey Zekey)",
+      "artist": "Cam'ron",
+      "has_synced": false,
+      "path": "select/02_Hey_Lady_(feat._Freekey_Zekey)_Cam'ron.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey, Lady Godiva",
+      "artist": "Dr. Hook",
+      "has_synced": false,
+      "path": "select/03_Hey,_Lady_Godiva_Dr._Hook.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey, Lady Godiva",
+      "artist": "Dr. Hook & The Medicine Show",
+      "has_synced": false,
+      "path": "select/04_Hey,_Lady_Godiva_Dr._Hook_&_The_Medicine_Show.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Lady Luck",
+      "artist": "Michel Cleis",
+      "has_synced": true,
+      "path": "select/05_Hey_Lady_Luck_Michel_Cleis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey Lady Luck",
+      "artist": "Michel Cleis",
+      "has_synced": true,
+      "path": "select/06_Hey_Lady_Luck_Michel_Cleis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey Lady Luck",
+      "artist": "Michel Cleis",
+      "has_synced": true,
+      "path": "select/07_Hey_Lady_Luck_Michel_Cleis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey Lady Luck",
+      "artist": "Michel Cleis",
+      "has_synced": false,
+      "path": "select/08_Hey_Lady_Luck_Michel_Cleis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey Lady Luck (Radio Edit)",
+      "artist": "Michel Cleis",
+      "has_synced": true,
+      "path": "select/09_Hey_Lady_Luck_(Radio_Edit)_Michel_Cleis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey Lady",
+      "artist": "Thriving Ivory",
+      "has_synced": true,
+      "path": "select/10_Hey_Lady_Thriving_Ivory.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hey, Lady Godiva",
+      "artist": "Dr. Hook",
+      "has_synced": true,
+      "path": "select/11_Hey,_Lady_Godiva_Dr._Hook.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey Lady (feat. Freekey Zekey)",
+      "artist": "Cam'ron",
+      "has_synced": false,
+      "path": "select/12_Hey_Lady_(feat._Freekey_Zekey)_Cam'ron.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Lady (Oliver Nelson Remix)",
+      "artist": "Skogsrå",
+      "has_synced": true,
+      "path": "select/13_Hey_Lady_(Oliver_Nelson_Remix)_Skogsrå.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey Lady (feat. Twista)",
+      "artist": "Mike Posner",
+      "has_synced": false,
+      "path": "select/14_Hey_Lady_(feat._Twista)_Mike_Posner.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey Lady",
+      "artist": "WANIMA",
+      "has_synced": false,
+      "path": "select/pl_01_Hey_Lady_WANIMA.txt"
+    }
+  ]
+}
